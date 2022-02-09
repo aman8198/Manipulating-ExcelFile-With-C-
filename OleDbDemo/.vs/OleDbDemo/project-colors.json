@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85b6f3a1-ee30-4a29-94b4-be348127a61f": {
+      "ProjectGuid": "85b6f3a1-ee30-4a29-94b4-be348127a61f",
+      "DisplayName": "OleDbDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

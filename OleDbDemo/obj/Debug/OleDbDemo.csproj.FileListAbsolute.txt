@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\OleDbDemo\bin\Debug\OleDbDemo.exe.config
+C:\Users\user\source\repos\OleDbDemo\bin\Debug\OleDbDemo.exe
+C:\Users\user\source\repos\OleDbDemo\bin\Debug\OleDbDemo.pdb
+C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.exe
+C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7kt6QfJeeemBwaVvcB8KDpnHRHLDaHOt/TOwR5mmlXnvMUZ0qbSCfu0GtFKabqa8RdgFnG6ZrSAvgNfDu+E8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\FastExceldemo\\FastExceldemo\\FastExceldemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fastexcel\\3.0.13\\fastexcel.3.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
