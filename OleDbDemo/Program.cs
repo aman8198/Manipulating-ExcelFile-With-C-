@@ -12,13 +12,13 @@ namespace OleDbDemo
     {
         static void Main(string[] args)
         {
-            string connString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\\New folder\\App.xlsx; Extended Properties='Excel 8.0;HDR=NO;IMEX=1;'";
+            string connString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\\New folder\\One.xlsx; Extended Properties='Excel 8.0;HDR=Yes;IMEX=1;'";
             OleDbConnection oledbConn = new OleDbConnection(connString);
             try
             {
                 oledbConn.Open();
 
-                OleDbCommand cmd = new OleDbCommand("SELECT * FROM [TestReport$]", oledbConn);
+                OleDbCommand cmd = new OleDbCommand("SELECT * FROM [Sheet3$] where RegressionTest='no'", oledbConn);
                 OleDbDataAdapter oleda = new OleDbDataAdapter();
                 oleda.SelectCommand = cmd;
                 DataSet ds = new DataSet();
@@ -35,6 +35,7 @@ namespace OleDbDemo
             catch (Exception e)
             {
                 Console.WriteLine("Error :" + e.Message);
+                Console.Read();
             }
             finally
             {

@@ -4,3 +4,11 @@ C:\Users\user\source\repos\OleDbDemo\bin\Debug\OleDbDemo.pdb
 C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.exe
 C:\Users\user\source\repos\OleDbDemo\obj\Debug\OleDbDemo.pdb
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\bin\Debug\OleDbDemo.exe.config
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\bin\Debug\OleDbDemo.exe
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\bin\Debug\OleDbDemo.pdb
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\obj\Debug\OleDbDemo.csproj.AssemblyReference.cache
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\obj\Debug\OleDbDemo.csproj.CoreCompileInputs.cache
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\obj\Debug\OleDbDemo.exe
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\obj\Debug\OleDbDemo.pdb
+D:\Github\Manipulating-ExcelFile-With-C-\OleDbDemo\obj\Debug\OleDbDemo.csproj.SuggestedBindingRedirects.cache
